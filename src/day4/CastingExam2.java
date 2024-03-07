@@ -16,7 +16,6 @@ public class CastingExam2 {
 class 무기 {
 
     public void 공격() {}
-
     public void 사용() {}
     public void 무기스킬사용() {}
 }

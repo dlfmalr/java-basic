@@ -35,6 +35,7 @@ public class ReturnExam1 {
         int e = func3(10);
         System.out.println(e);
         // 출력 : 100
+
         int f = func3(5);
         System.out.println(f);
         // 출력 : 25
