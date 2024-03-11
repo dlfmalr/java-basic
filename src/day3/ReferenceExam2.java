@@ -7,12 +7,12 @@ public class ReferenceExam2 {
 
         //System.out.println(num); // 출력 : 10
 
-        printValue("안녕");
+        //printValue("안녕");
         // 출력 : 안녕
     }
 }
-class  printValue(String 인사) {
-    public void {
-        System.out.println(인사);
-    }
-}
+//class  printValue(String 인사) {
+   // public void {
+     //   System.out.println(인사);
+    //}
+//}
